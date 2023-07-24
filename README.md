@@ -4,4 +4,4 @@
 
 -   Pagina hecha para homenajear a Lionel Messi.
 
--   Tecnologias utilizadas: HTML y CSS
+-   Tecnologias utilizadas: ![Html logo](https://img.shields.io/badge/HTML5-F58025?logo=Html5&logoColor=fff&style=flat) ![CSS Logo](https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=&style=flat)
